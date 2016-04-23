@@ -1,12 +1,12 @@
 from tkinter import *
-
+from PIL import Image
 
 root = Tk()
 info = Text(root, width = 40, height = 2, bg = "#597DA3", fg = "white",
                font="arial 12",
                wrap=WORD)
 
-fra1 = Frame(root,width=500,height=400,bg="darkred")
+fra1 = Frame(root,width=500,height=400,bg="#FFFFFF")
 
 but = Button(root,
           text="Next", #надпись на кнопке
