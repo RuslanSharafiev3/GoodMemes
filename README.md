@@ -18,8 +18,8 @@ INSTALLATION
   6. open file 'main.exe'
   7. Profit!!!
 
-PS: Before you do step 4 you need installation Python 2.7 and installation Py2exe.
-After write path to Python27 in variables PATH like this 'C:\Users\User\AppData\Roaming\npm;C:\Python27'.
+PS: Before you do step 4 you need installation Python 2.7 and Py2exe.
+After, write path to Python27 in variables PATH like this 'C:\Users\User\AppData\Roaming\npm;C:\Python27'.
 
 
 -------------------------
