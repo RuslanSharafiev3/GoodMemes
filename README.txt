@@ -10,11 +10,11 @@ Windows exe converter: Py2exe.
 INSTALLATION
 ------------
 
-1. create file on your computer with name 'GoodMems'
-2. copy files from github in your's file 'GoodMems'
-3. open cmd in file 'GoodMems'
+1. create file on your computer with name 'GoodMemes'
+2. copy files from github in your's file 'GoodMemes'
+3. open cmd in file 'GoodMemes'
 4. write command: 'python setup.py py2exe'
-5. open file 'dist' in file 'GoodMems'
+5. open file 'dist' in file 'GoodMemes'
 6. open file 'main.exe'
 7. Profit!!!
 
