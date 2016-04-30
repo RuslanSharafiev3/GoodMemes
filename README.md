@@ -23,6 +23,6 @@ After, write path to Python27 in variables PATH like this 'C:\Users\User\AppData
 
 
 -------------------------
-aftor by Ruslan Sharafiev
+author by Ruslan Sharafiev
 contact with me 
   E-mail: Ruslan.Sharafiev3@gmail.com
